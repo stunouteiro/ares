@@ -5,11 +5,9 @@
 
 
 
-
-
 <item>
     <title>A Odisseia [COLOR orange] Addon Ares Lite Filmes(2026)[/COLOR]</title>
-    <link>magnet:?xt=urn%3Abtih%3A0D323A3E19362269F3C759400A224BA94B68DE8C$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn%3Abtih%3A0D323A3E19362269F3C759400A224BA94B68DE8C$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
     <link>plugin://plugin.video.youtube/play/?video_id=NJV9Pw2kXc4$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
     <thumbnail>https://image.tmdb.org/t/p/w500/muMwJAiMtReEHLKpKMWt2rMkYF7.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/w1280/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg</fanart>
