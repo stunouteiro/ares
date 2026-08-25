@@ -7,12 +7,44 @@
 
 
 
+
+
+
+
 <item>
-    <title>Demolidor: O Homem Sem Medo [COLOR orange] Addon Ares Lite Filmes(2026)[/COLOR]</title>
-    <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/MPMGBLZM2kcmRAg</link>
-    <thumbnail>https://image.tmdb.org/t/p/original/radMhBHs7xicEcsTLfRzbWBdGC9.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/original/e7jIX02GiSwsgkU5lMpeKjwq2Zc.jpg</fanart>
-    <info>O advogado Matt Murdock é cego, mas os seus outros quatro sentidos funcionam com uma nitidez sobrehumana. De dia, Murdock representa os oprimidos e à noite, ele é o Demolidor, um vigilante mascarado e vingador implacável da justiça.</info>
+    <title>Motor City [COLOR orange] Addon Ares Lite Filmes(2026)[/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet%3A%3Fxt%3Durn%3Abtih%3ABDA93420066514A5AE7B615C0CB3424263A63815$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=c7GMCJyoUjU$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/zYFe8hbCL39zbY8Ckep6Rs7Kdf2.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/cYEu96qXUFilbHPw7yP3qi0SQle.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Motor City
+[COLOR red]Elenco Principal:[/COLOR] Alan Ritchson, Shailene Woodley, Ben Foster, Amar Chadha-Patel, Ben McKenzie
+[COLOR orange]Duração:[/COLOR] 104min
+[COLOR red]Diretor:[/COLOR] Potsy Ponciroli
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 6.9
+[COLOR orange]Gênero:[/COLOR] Ação, Thriller, Crime
+[COLOR red]Sinopse:[/COLOR] Um criminoso recém-libertado busca vingança contra aqueles que o incriminaram e o colocaram na cadeia.
+    </info>
+</item>
+
+<item>
+    <title>Batman: A Queda do Morcego - Parte 1 [COLOR orange] Addon Ares Filmes(2026)[/COLOR]</title>
+    <link>magnet:?xt=urn:btih:9059e6bc828d72046f880de6a2cd10cf5a13d800$nome=[COLOR orange]ADDON ARES FILME FHD[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=8jRvILFcx30$nome=[COLOR red]ADDON ARES - TRAILER[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/w500/360qdtu2hLnqMu8SVHMywn420w1.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w1280/6c78xuvSoFLJkwlmx8Z2FGmMtzr.jpg</fanart>
+    <info>
+[COLOR orange]Título Original:[/COLOR] Batman: Knightfall Part 1: Knightfall
+[COLOR red]Elenco Principal:[/COLOR] Anson Mount, Michael Mando, Pablo Schreiber, Jack Giffin, Bruce Boxleitner
+[COLOR orange]Duração:[/COLOR] 1h 19min
+[COLOR red]Diretor:[/COLOR] Jeff Wamester
+[COLOR orange]Ano:[/COLOR] 2026
+[COLOR red]Nota:[/COLOR] 7.2
+[COLOR orange]Gênero:[/COLOR] Animação, Ação, Aventura
+[COLOR red]Sinopse:[/COLOR] O Asilo Arkham foi destruído, e todos os seus detentos foram soltos em Gotham City. Enquanto corre contra o tempo para capturar alguns de seus maiores inimigos, Batman é levado ao limite de suas capacidades físicas e mentais, rumo a um confronto final contra uma nova ameaça: o homem chamado Bane!
+    </info>
 </item>
 
 <item>
